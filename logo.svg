@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+    <path fill="#8d6c9f" d="M 102 154 a 154 154 1 0 1 308 0 v 178 h 20 a 26 26 1 0 1 26 26 v 44 a 26 26 1 0 1 -26 26 h -60.667 v 56 a 28 28 1 0 1 -56 0 v -56 h -114.667 v 56 a 28 28 1 0 1 -56 0 v -56 h -60.667 a 26 26 1 0 1 -26 -26 v -44 a 26 26 1 0 1 26 -26 h 20 Z"></path>
+    <path fill="#ed7899" d="M 118 154 a 138 138 1 0 1 276 0 v 178 h -276 Z"></path>
+    <path fill="#ed7899" d="M 256 348 h 174 a 10 10 1 0 1 10 10 v 44 a 10 10 1 0 1 -10 10 h -348 a 10 10 1 0 1 -10 -10 v -44 a 10 10 1 0 1 10 -10 Z"></path>
+    <path fill="#ffe8b1" d="M 353.333 428 v 56 a 12 12 1 0 1 -24 0 v -56 Z"></path>
+    <path fill="#ffe8b1" d="M 182.667 428 v 56 a 12 12 1 0 1 -24 0 v -56 Z"></path>
+    <path fill="none" stroke="#f6bccc" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M 256 154 m -115.5 0 a 115.5 115.5 1 0 1 20.887938884621473 -66.24807839854584"></path>
+    <path fill="none" stroke="#f6bccc" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M 256 154 m -74.2419689187953 -88.47813318024195 a 115.5 115.5 1 0 1 16.491968918795322 -11.54780095686071"></path>
+    <path fill="none" stroke="#8d6c9f" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M 182 116.2 v 189.24"></path>
+    <path fill="none" stroke="#8d6c9f" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M 256 116.2 v 189.24"></path>
+    <path fill="none" stroke="#8d6c9f" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M 330 116.2 v 189.24"></path>
+    <ellipse fill="#ed7899" cx="182" cy="199.896" rx="32" ry="32"></ellipse>
+    <ellipse fill="#8d6c9f" cx="182" cy="191.896" rx="32" ry="32"></ellipse>
+    <ellipse fill="#ed7899" cx="182" cy="191.896" rx="16" ry="16"></ellipse>
+    <ellipse fill="#ed7899" cx="256" cy="256.668" rx="32" ry="32"></ellipse>
+    <ellipse fill="#8d6c9f" cx="256" cy="248.66799999999998" rx="32" ry="32"></ellipse>
+    <ellipse fill="#ed7899" cx="256" cy="248.66799999999998" rx="16" ry="16"></ellipse>
+    <ellipse fill="#ed7899" cx="330" cy="218.82" rx="32" ry="32"></ellipse>
+    <ellipse fill="#8d6c9f" cx="330" cy="210.82" rx="32" ry="32"></ellipse>
+    <ellipse fill="#ed7899" cx="330" cy="210.82" rx="16" ry="16"></ellipse>
+</svg>
