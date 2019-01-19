@@ -32,9 +32,6 @@
 - Some form of waterproof 3-pin connector (supply, ground, data) that can handle 60A×5V = 300W, for going between 5m lengths... ☹
 
 ## Software setup
-- Some sort of transactional database
-  - Maybe PostgreSQL
-  - Maybe MySQL
-  - Maybe SQLite
+- SQLite database
 - Flask backend
 - React frontend
